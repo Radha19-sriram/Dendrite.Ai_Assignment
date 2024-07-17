@@ -10,9 +10,13 @@ This project aims to build and evaluate regression models to predict `petal_widt
 The dataset used in this project is iris.csv, which is a modified version of the classic Iris dataset. It contains the following features:
 
 `sepal_length`: Length of the sepal (numerical)
+
 `sepal_width`: Width of the sepal (numerical)
+
 `petal_length`: Length of the petal (numerical)
+
 `petal_width`: Width of the petal (target variable, numerical)
+
 `species`: Species of the Iris flower (categorical)
 
 **Feature Engineering**
