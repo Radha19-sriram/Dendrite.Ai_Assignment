@@ -65,8 +65,13 @@ The dataset used in this project is iris.csv, which is a modified version of the
 
 ### Output
 Here is the output of the best model:
-- **R-squared (R²)**: 0.92
-- **Mean Squared Error (MSE)**: 0.05
+
+**Best Parameters for RandomForestRegressor**
+max_depth: 20
+min_samples_leaf: 10
+n_estimators: 10
+**Best Score for RandomForestRegressor**
+R-squared (R^2): 0.9217
 
 **Insights**: Interpretations and findings from the analysis.
 
