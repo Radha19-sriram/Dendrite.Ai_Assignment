@@ -63,6 +63,11 @@ The dataset used in this project is iris.csv, which is a modified version of the
 
 **Best Model:** Identified based on evaluation metrics (e.g., R^2 score).
 
+### Output
+Here is the output of the best model:
+- **R-squared (R²)**: 0.92
+- **Mean Squared Error (MSE)**: 0.05
+
 **Insights**: Interpretations and findings from the analysis.
 
 **Recommendations**: Suggestions for improving model performance or exploring alternative approaches.
