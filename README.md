@@ -1,10 +1,10 @@
-**Regression Analysis on Iris Dataset with Feature Engineering and Model Tuning**
-This project performs regression analysis on the Iris dataset (iris.csv) using various machine learning models. The objective is to predict the **petal_width** based on other features after applying feature engineering techniques and optimizing model hyperparameters.
+**Regression Analysis on Iris_Modified Dataset with Feature Engineering and Model Tuning**
+This project performs regression analysis on the Iris_Modified dataset (iris.csv) using various machine learning models. The objective is to predict the **petal_width** based on other features after applying feature engineering techniques and optimizing model hyperparameters.
 
 **Table of Contents**
 
 **Project Overview**
-This project aims to build and evaluate regression models to predict `petal_width` using the Iris dataset. It includes preprocessing steps, feature engineering techniques, model selection, hyperparameter tuning, and evaluation based on regression-specific metrics.
+This project aims to build and evaluate regression models to predict `petal_width` using the Iris_Modified dataset. It includes preprocessing steps, feature engineering techniques, model selection, hyperparameter tuning, and evaluation based on regression-specific metrics.
 
 **Dataset**
 The dataset used in this project is iris.csv, which is a modified version of the classic Iris dataset. It contains the following features:
